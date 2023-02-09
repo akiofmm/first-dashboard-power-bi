@@ -1,5 +1,5 @@
 # first-dashboard-power-bi
-Curso da Alura: [Power BI Desktop construindo meu primeiro dashboard](https://cursos.alura.com.br/course/power-bi-desktop-primeiro-dashboard)
+Dashboard desenvolvido no projeto do curso de [Power BI Desktop construindo meu primeiro dashboard](https://cursos.alura.com.br/course/power-bi-desktop-primeiro-dashboard)
 
 A partir do projeto do curso, foi possível aprender a:
 - Criar conexões a partir de diferentes fontes de dados: online, txt, xlsx
